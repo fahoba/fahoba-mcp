@@ -2,12 +2,12 @@
     "name": "fahoba/mcp",
     "description": "Lets an AI assistant read and change a household through the Model Context Protocol, with an API token",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "PolyForm-Shield-1.0.0",
     "require": {
         "php": "^8.5",
         "laravel/mcp": "^1.1",
-        "fahoba/plugin-api": "^0.1"
+        "fahoba/plugin-api": "^0.1 || ^0.2"
     },
     "autoload": {
         "psr-4": {
